@@ -1,0 +1,6 @@
+# Copy this file to "db.properties" and fill in your own MySQL credentials.
+# db.properties is listed in .gitignore so your password is never pushed to GitHub.
+db.host=localhost
+db.port=3306
+db.user=root
+db.password=your_password_here
